@@ -6,6 +6,7 @@
 - Autotests practice for site Selenium-herokuapp.com [Link](https://github.com/Twinkerxd/Selenium-herokuapp.com)
 - Autotests practice for site Selenium-moderntester.pl [Link](https://github.com/Twinkerxd/Selenium-moderntester.pl)
 - API autotests practice for site reqres.in [Link](https://github.com/Twinkerxd/RestAssured)
+-
 
 My stack:
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)
