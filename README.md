@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Sergei</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 - My automation school homeworks [Link](https://github.com/Twinkerxd/QAguru)
 - Some HTML, CSS and JS practice [Link](https://github.com/Twinkerxd/HTML-CSS-JS-learn)
