@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 - UI Selenium tests [Link](https://github.com/Twinkerxd/Selenium)
-- REST API OkHttpClient tests [Link](https://github.com/Twinkerxd/Selenium)
+- REST API OkHttpClient tests [Link](https://github.com/Twinkerxd/Merion)
 
 My stack:
 
