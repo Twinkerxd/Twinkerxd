@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Sergei</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-- Selenium, Gradle project [Link](https://github.com/Twinkerxd/Selenium)
+- UI Selenium tests [Link](https://github.com/Twinkerxd/Selenium)
+- REST API OkHttpClient tests [Link](https://github.com/Twinkerxd/Selenium)
 
 My stack:
 
