@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm Sergei</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-- UI Selenium tests [Link](https://github.com/Twinkerxd/Selenium)
-- REST API tests [Link](https://github.com/Twinkerxd/Merion)
+My project with API and UI autotests [Link](https://github.com/Twinkerxd/autotests)
 
 My stack:
 
